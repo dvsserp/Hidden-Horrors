@@ -1,7 +1,7 @@
 const Characters = () => {
     return(
         <div>
-
+            
         </div>
     )
 }
